@@ -1,0 +1,20 @@
+@keyframes enlarge{
+    50% {
+        transform: scale(1.2);
+    }
+}
+
+@keyframes thunder {
+    25% {
+        opacity: .5;
+        background-color: #FDD023;
+    }
+    50% {
+        background-color: #000;
+        opacity: 0.2;
+    }
+    100% {
+        opacity: .7;
+        background-color: #FDD023;
+    }
+}

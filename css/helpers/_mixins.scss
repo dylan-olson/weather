@@ -1,0 +1,23 @@
+// Rubik Light 300 Font 
+@mixin RubikLight {
+    font-family: 'Rubik', sans-serif;
+    font-weight: 300;
+}
+
+// Rubik Regular 400 Font 
+@mixin RubikRegular {
+    font-family: 'Rubik', sans-serif;
+    font-weight: 400;
+}
+
+// Rubik Medium 500 Font 
+@mixin RubikMedium {
+    font-family: 'Rubik', sans-serif;
+    font-weight: 500;
+}
+
+// Rubik Bold 700 Font 
+@mixin RubikBold {
+    font-family: 'Rubik', sans-serif;
+    font-weight: 700;
+}
