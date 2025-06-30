@@ -3,7 +3,7 @@ SUBSCRIBE HERE: https://home.openweathermap.org/users/sign_up */
 const apiKey = "80701dba075f06003a038ffda4045d08";
 
 // set zipcode for this method 
-const inputZip = "90036";
+const inputZip = "38135";
 
 // doc ready 
 $(document).ready(function() {
